@@ -455,9 +455,9 @@ def generate_tubi_m3u():
 
 if __name__ == "__main__":
     cleanup_output_dir()
-    generate_pluto_m3u()
+    # generate_pluto_m3u()
     generate_plex_m3u()
     generate_samsungtvplus_m3u()
-    generate_tubi_m3u()
-    generate_roku_m3u()
+    # generate_tubi_m3u()
+    # generate_roku_m3u()
 

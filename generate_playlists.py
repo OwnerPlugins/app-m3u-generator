@@ -458,6 +458,6 @@ if __name__ == "__main__":
     # generate_pluto_m3u()
     generate_plex_m3u()
     generate_samsungtvplus_m3u()
-    # generate_tubi_m3u()
-    # generate_roku_m3u()
+    generate_tubi_m3u()
+    generate_roku_m3u()
 

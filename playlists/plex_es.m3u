@@ -119,8 +119,6 @@ https://jmp2.uk/plex-643054b1fc3be59477853717-614e286b2bac097ffd6fd6ab.m3u8
 https://jmp2.uk/plex-643054b1fc3be59477853717-652a8b001b5c74bc83cf727c.m3u8
 #EXTINF:-1 channel-id="643054b1fc3be59477853717-66e4cbef38de9754b6b13e90" tvg-id="643054b1fc3be59477853717-66e4cbef38de9754b6b13e90" tvg-chno="" tvg-name="Dr. Phil" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a07750e7-11a2-4563-a402-40ad1d9e7392/xPlex_DrPhil_Channel_Logo_v01RDX.png" group-title="Daytime TV",Dr. Phil
 https://jmp2.uk/plex-643054b1fc3be59477853717-66e4cbef38de9754b6b13e90.m3u8
-#EXTINF:-1 channel-id="643054b1fc3be59477853717-66ea0e029502c5778b828d45" tvg-id="643054b1fc3be59477853717-66ea0e029502c5778b828d45" tvg-chno="" tvg-name="Drool" tvg-logo="https://provider-static.plex.tv/epg/cms/production/7fff0047-9828-4ce4-b5b4-e49cf7e120bb/DroolLight_Logo__3_.png" group-title="Food & Home",Drool
-https://jmp2.uk/plex-643054b1fc3be59477853717-66ea0e029502c5778b828d45.m3u8
 #EXTINF:-1 channel-id="643054b1fc3be59477853717-68d7f9b53b1f329cea126993" tvg-id="643054b1fc3be59477853717-68d7f9b53b1f329cea126993" tvg-chno="" tvg-name="Dude Perfect" tvg-logo="https://provider-static.plex.tv/epg/cms/production/18c7eba5-bcd4-45bd-9d3a-65d3984fec32/DarkBG_1500x1000.png" group-title="Uncategorized",Dude Perfect
 https://jmp2.uk/plex-643054b1fc3be59477853717-68d7f9b53b1f329cea126993.m3u8
 #EXTINF:-1 channel-id="643054b1fc3be59477853717-62ee76b5271f393d2d9f709a" tvg-id="643054b1fc3be59477853717-62ee76b5271f393d2d9f709a" tvg-chno="" tvg-name="Easy Listening" tvg-logo="https://provider-static.plex.tv/epg/cms/production/9300cb7f-9eef-4e0f-b0d3-d7469da72cda/EASY_LISTENING.png" group-title="Music",Easy Listening
@@ -199,8 +197,6 @@ https://jmp2.uk/plex-643054b1fc3be59477853717-61aaa014784a2161d3caf7fd.m3u8
 https://jmp2.uk/plex-643054b1fc3be59477853717-682dfb2ddfc9c452b8f98426.m3u8
 #EXTINF:-1 channel-id="643054b1fc3be59477853717-6582a1316b91be4547aa153c" tvg-id="643054b1fc3be59477853717-6582a1316b91be4547aa153c" tvg-chno="" tvg-name="Hot Ones" tvg-logo="https://provider-static.plex.tv/epg/cms/production/5f489abb-a71e-425f-b276-16d6614f6601/FilmRiseHotOnes_Logo_Color.png" group-title="Daytime TV",Hot Ones
 https://jmp2.uk/plex-643054b1fc3be59477853717-6582a1316b91be4547aa153c.m3u8
-#EXTINF:-1 channel-id="643054b1fc3be59477853717-5fd115b7b7ef8d002dcf1814" tvg-id="643054b1fc3be59477853717-5fd115b7b7ef8d002dcf1814" tvg-chno="" tvg-name="Humor Mill" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/humormill_logo_dark.png" group-title="Comedy",Humor Mill
-https://jmp2.uk/plex-643054b1fc3be59477853717-5fd115b7b7ef8d002dcf1814.m3u8
 #EXTINF:-1 channel-id="643054b1fc3be59477853717-66f6b6baac1a1890ef197a4b" tvg-id="643054b1fc3be59477853717-66f6b6baac1a1890ef197a4b" tvg-chno="" tvg-name="Hunter" tvg-logo="https://provider-static.plex.tv/epg/cms/production/2e34b413-32fc-4600-8b29-94562670814c/Hunter_Logo_Dark.png" group-title="Classic TV",Hunter
 https://jmp2.uk/plex-643054b1fc3be59477853717-66f6b6baac1a1890ef197a4b.m3u8
 #EXTINF:-1 channel-id="643054b1fc3be59477853717-666e1820ce73ed6023b55a11" tvg-id="643054b1fc3be59477853717-666e1820ce73ed6023b55a11" tvg-chno="" tvg-name="Ice Pilots NWT" tvg-logo="https://provider-static.plex.tv/epg/cms/production/2c49fafe-3ddd-443d-bdaa-c2ad358146cf/channel_logo_1500x1000_light.png.png" group-title="Reality",Ice Pilots NWT
@@ -219,7 +215,7 @@ https://jmp2.uk/plex-643054b1fc3be59477853717-6448ba1baf92c31f4a190c27.m3u8
 https://jmp2.uk/plex-643054b1fc3be59477853717-60d4edd6b2fdec002c141123.m3u8
 #EXTINF:-1 channel-id="643054b1fc3be59477853717-60a9d105d162b9002d05a60c" tvg-id="643054b1fc3be59477853717-60a9d105d162b9002d05a60c" tvg-chno="" tvg-name="Journy" tvg-logo="https://provider-static.plex.tv/epg/cms/production/cd5391da-8949-47b8-8d27-97c9b426ada0/US_STVP_JOURNY_Logo_1248x400_Colour_ForDarkBG_Primary_-_Brett_ShawRDX.png" group-title="Nature & Travel",Journy
 https://jmp2.uk/plex-643054b1fc3be59477853717-60a9d105d162b9002d05a60c.m3u8
-#EXTINF:-1 channel-id="643054b1fc3be59477853717-5f0ff262d71dcb00449ec018" tvg-id="643054b1fc3be59477853717-5f0ff262d71dcb00449ec018" tvg-chno="" tvg-name="Judge Nosey" tvg-logo="https://provider-static.plex.tv/epg/cms/production/69e3c98e-4f11-4857-875b-6c76ffc77c5c/JudgeNosey_Logo_Color-Dark.png" group-title="Daytime TV",Judge Nosey
+#EXTINF:-1 channel-id="643054b1fc3be59477853717-5f0ff262d71dcb00449ec018" tvg-id="643054b1fc3be59477853717-5f0ff262d71dcb00449ec018" tvg-chno="" tvg-name="Judge Nosey" tvg-logo="https://provider-static.plex.tv/epg/cms/production/42b035f7-d085-4605-89e2-fb708c3e1794/JudgeNosey_Logo_Color-whitetxt.png" group-title="Daytime TV",Judge Nosey
 https://jmp2.uk/plex-643054b1fc3be59477853717-5f0ff262d71dcb00449ec018.m3u8
 #EXTINF:-1 channel-id="643054b1fc3be59477853717-64704954e536e0faaf10be9f" tvg-id="643054b1fc3be59477853717-64704954e536e0faaf10be9f" tvg-chno="" tvg-name="Just For Laughs Gags" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a3d02bc9-13e3-4263-aff8-6a8512501b80/1500x1500_Just_for_laughs_CARLOS_PACHECO.png" group-title="Comedy",Just For Laughs Gags
 https://jmp2.uk/plex-643054b1fc3be59477853717-64704954e536e0faaf10be9f.m3u8
@@ -265,8 +261,6 @@ https://jmp2.uk/plex-643054b1fc3be59477853717-60da3a5c0d1cc1002c38370e.m3u8
 https://jmp2.uk/plex-643054b1fc3be59477853717-62fbf197c67d52bddf74cc87.m3u8
 #EXTINF:-1 channel-id="643054b1fc3be59477853717-695d5d279caacd2e64b7a00c" tvg-id="643054b1fc3be59477853717-695d5d279caacd2e64b7a00c" tvg-chno="" tvg-name="MOVIESPHERE" tvg-logo="https://provider-static.plex.tv/epg/cms/production/bfb3b19f-bd6e-47cc-a99a-70f7ab38669b/MovieSphere_Intl_Logo_Color_STACKRDX__1_.png" group-title="Movies",MOVIESPHERE
 https://jmp2.uk/plex-643054b1fc3be59477853717-695d5d279caacd2e64b7a00c.m3u8
-#EXTINF:-1 channel-id="643054b1fc3be59477853717-6196c8c01d310bf925e02615" tvg-id="643054b1fc3be59477853717-6196c8c01d310bf925e02615" tvg-chno="" tvg-name="Music Legends" tvg-logo="https://provider-static.plex.tv/epg/cms/production/318f5578-72c7-4398-932f-1d993fc9d5f2/Music_Legends_logo_light.png" group-title="Music",Music Legends
-https://jmp2.uk/plex-643054b1fc3be59477853717-6196c8c01d310bf925e02615.m3u8
 #EXTINF:-1 channel-id="643054b1fc3be59477853717-656237c55dbccec83a87b649" tvg-id="643054b1fc3be59477853717-656237c55dbccec83a87b649" tvg-chno="" tvg-name="Mutant X" tvg-logo="https://provider-static.plex.tv/epg/cms/production/e7c42702-89d4-42c0-a093-4c604ab39a34/FilmRise_MutantX_Color_Logo.png" group-title="Drama TV",Mutant X
 https://jmp2.uk/plex-643054b1fc3be59477853717-656237c55dbccec83a87b649.m3u8
 #EXTINF:-1 channel-id="643054b1fc3be59477853717-650b5bb3f4b2d9579946a500" tvg-id="643054b1fc3be59477853717-650b5bb3f4b2d9579946a500" tvg-chno="" tvg-name="Mythical 24/7" tvg-logo="https://provider-static.plex.tv/epg/cms/production/cbce9562-c7a6-460c-9d07-02ab8724bbc5/Light_Logo__Mythical_24_7_1500x1000.png" group-title="Comedy",Mythical 24/7
@@ -293,9 +287,9 @@ https://jmp2.uk/plex-643054b1fc3be59477853717-60aeb5cd87f9b1002ce12323.m3u8
 https://jmp2.uk/plex-643054b1fc3be59477853717-627ec46a92d8e6a705784bd1.m3u8
 #EXTINF:-1 channel-id="643054b1fc3be59477853717-64b1e1217d4037206787f384" tvg-id="643054b1fc3be59477853717-64b1e1217d4037206787f384" tvg-chno="" tvg-name="Nolly Africa HD" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a50425a8-5b58-47b5-96c9-43c842f77806/1500X1000_PNG_w__transparent_background__Logo_suitable_for_light_backgrounds__-_Herliane_Pedro.png" group-title="Black Entertainment",Nolly Africa HD
 https://jmp2.uk/plex-643054b1fc3be59477853717-64b1e1217d4037206787f384.m3u8
-#EXTINF:-1 channel-id="643054b1fc3be59477853717-5f0ff262d71dcb00449ec015" tvg-id="643054b1fc3be59477853717-5f0ff262d71dcb00449ec015" tvg-chno="" tvg-name="Nosey" tvg-logo="https://provider-static.plex.tv/epg/cms/production/881d4e9f-10ec-4ca8-9309-17cc1126b768/nosey_green.png" group-title="Daytime TV",Nosey
+#EXTINF:-1 channel-id="643054b1fc3be59477853717-5f0ff262d71dcb00449ec015" tvg-id="643054b1fc3be59477853717-5f0ff262d71dcb00449ec015" tvg-chno="" tvg-name="Nosey" tvg-logo="https://provider-static.plex.tv/epg/cms/production/cd9c928b-8bf5-408f-b640-a6d1b97a6a69/nosey_green.png" group-title="Daytime TV",Nosey
 https://jmp2.uk/plex-643054b1fc3be59477853717-5f0ff262d71dcb00449ec015.m3u8
-#EXTINF:-1 channel-id="643054b1fc3be59477853717-6154a863e3e4d9577f96b31a" tvg-id="643054b1fc3be59477853717-6154a863e3e4d9577f96b31a" tvg-chno="" tvg-name="Nosey Escándalos" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/nosey_escandalos_logo_dark.png" group-title="En Español",Nosey Escándalos
+#EXTINF:-1 channel-id="643054b1fc3be59477853717-6154a863e3e4d9577f96b31a" tvg-id="643054b1fc3be59477853717-6154a863e3e4d9577f96b31a" tvg-chno="" tvg-name="Nosey Escándalos" tvg-logo="https://provider-static.plex.tv/epg/cms/production/53d7cc91-9e94-4192-9b0b-c13e05c8e09d/nosey-escandalos_color.png" group-title="En Español",Nosey Escándalos
 https://jmp2.uk/plex-643054b1fc3be59477853717-6154a863e3e4d9577f96b31a.m3u8
 #EXTINF:-1 channel-id="643054b1fc3be59477853717-62f13eeded056a1db9ef3d54" tvg-id="643054b1fc3be59477853717-62f13eeded056a1db9ef3d54" tvg-chno="" tvg-name="Nothin' But 90s" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d5318898-f807-4c7f-b2b4-c4173aaae1ea/Nothin_But_90s.png" group-title="Music",Nothin' But 90s
 https://jmp2.uk/plex-643054b1fc3be59477853717-62f13eeded056a1db9ef3d54.m3u8
@@ -431,8 +425,6 @@ https://jmp2.uk/plex-643054b1fc3be59477853717-6761f91555e174e95ccc4e4c.m3u8
 https://jmp2.uk/plex-643054b1fc3be59477853717-5f123330eca6a20040b328e8.m3u8
 #EXTINF:-1 channel-id="643054b1fc3be59477853717-692235eb50fe592fd6d5b7ea" tvg-id="643054b1fc3be59477853717-692235eb50fe592fd6d5b7ea" tvg-chno="" tvg-name="The Blacklist" tvg-logo="https://provider-static.plex.tv/epg/cms/production/011f6a9a-c20e-4c26-b1e2-07e905c4958b/ES_FAST_Plex_Blacklist_logo_dark.png" group-title="Uncategorized",The Blacklist
 https://jmp2.uk/plex-643054b1fc3be59477853717-692235eb50fe592fd6d5b7ea.m3u8
-#EXTINF:-1 channel-id="643054b1fc3be59477853717-5efe1de6e0b3f5003f5d9f82" tvg-id="643054b1fc3be59477853717-5efe1de6e0b3f5003f5d9f82" tvg-chno="" tvg-name="The Boat Show" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/vitor_theboatshow_1.png" group-title="Lifestyle",The Boat Show
-https://jmp2.uk/plex-643054b1fc3be59477853717-5efe1de6e0b3f5003f5d9f82.m3u8
 #EXTINF:-1 channel-id="643054b1fc3be59477853717-5efe1de6e0b3f5003f5d9f88" tvg-id="643054b1fc3be59477853717-5efe1de6e0b3f5003f5d9f88" tvg-chno="" tvg-name="The Bob Ross Channel" tvg-logo="https://provider-static.plex.tv/2/epg/channels/logos/gracenote/280e5bc9b7e116f901b3258fea16c453.png" group-title="Lifestyle",The Bob Ross Channel
 https://jmp2.uk/plex-643054b1fc3be59477853717-5efe1de6e0b3f5003f5d9f88.m3u8
 #EXTINF:-1 channel-id="643054b1fc3be59477853717-67d9a3d663c5439aeaf61305" tvg-id="643054b1fc3be59477853717-67d9a3d663c5439aeaf61305" tvg-chno="" tvg-name="The Bold and the Beautiful" tvg-logo="https://provider-static.plex.tv/epg/cms/production/761a81a4-bd1e-4250-a143-d5f7359414fd/The_Bold_And_The_Beautiful_TT_WHT_RDX.png" group-title="Uncategorized",The Bold and the Beautiful

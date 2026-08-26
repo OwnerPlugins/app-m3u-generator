@@ -133,6 +133,8 @@ https://jmp2.uk/plu-64c92f965580090008084968.m3u8
 https://jmp2.uk/plu-681ba2ad93d3d19bcab47433.m3u8
 #EXTINF:-1 channel-id="63eb9fdda995710008991c54" tvg-id="63eb9fdda995710008991c54" tvg-chno="108" tvg-name="NCIS" tvg-logo="https://images.pluto.tv/channels/63eb9fdda995710008991c54/colorLogoPNG.png" group-title="Séries",NCIS
 https://jmp2.uk/plu-63eb9fdda995710008991c54.m3u8
+#EXTINF:-1 channel-id="6a68dc0a75fd5e3828f10b10" tvg-id="6a68dc0a75fd5e3828f10b10" tvg-chno="880" tvg-name="NFL Channel" tvg-logo="https://images.pluto.tv/channels/6a68dc0a75fd5e3828f10b10/colorLogoPNG_1785257068328.png" group-title="Esportes",NFL Channel
+https://jmp2.uk/plu-6a68dc0a75fd5e3828f10b10.m3u8
 #EXTINF:-1 channel-id="6824ce95f09106f4b18f4114" tvg-id="6824ce95f09106f4b18f4114" tvg-chno="1530" tvg-name="Nick Jr. Club" tvg-logo="https://images.pluto.tv/channels/6824ce95f09106f4b18f4114/colorLogoPNG_1747935179470.png" group-title="Nickelodeon",Nick Jr. Club
 https://jmp2.uk/plu-6824ce95f09106f4b18f4114.m3u8
 #EXTINF:-1 channel-id="6824ce10c5d53e1351ceb8d1" tvg-id="6824ce10c5d53e1351ceb8d1" tvg-chno="1510" tvg-name="Nickelodeon Clássico" tvg-logo="https://images.pluto.tv/channels/6824ce10c5d53e1351ceb8d1/colorLogoPNG_1750111537223.png" group-title="Nickelodeon",Nickelodeon Clássico
@@ -143,6 +145,8 @@ https://jmp2.uk/plu-620ff46e0a576e0007dc2f89.m3u8
 https://jmp2.uk/plu-60f5fabf0721880007cd50e3.m3u8
 #EXTINF:-1 channel-id="645951c0e94c38000802d2cb" tvg-id="645951c0e94c38000802d2cb" tvg-chno="1500" tvg-name="Nickelodeon Toons" tvg-logo="https://images.pluto.tv/channels/645951c0e94c38000802d2cb/colorLogoPNG_1767888119852.png" group-title="Nickelodeon",Nickelodeon Toons
 https://jmp2.uk/plu-645951c0e94c38000802d2cb.m3u8
+#EXTINF:-1 channel-id="6a281d2bd1e6d3ba6b553c7c" tvg-id="6a281d2bd1e6d3ba6b553c7c" tvg-chno="279" tvg-name="Novelíssima" tvg-logo="https://images.pluto.tv/channels/6a281d2bd1e6d3ba6b553c7c/colorLogoPNG_1782245265151.png" group-title="Novelas",Novelíssima
+https://jmp2.uk/plu-6a281d2bd1e6d3ba6b553c7c.m3u8
 #EXTINF:-1 channel-id="67f960c5441853fe50e7afc1" tvg-id="67f960c5441853fe50e7afc1" tvg-chno="112" tvg-name="Numbers" tvg-logo="https://images.pluto.tv/channels/67f960c5441853fe50e7afc1/colorLogoPNG_1747430170532.png" group-title="Séries",Numbers
 https://jmp2.uk/plu-67f960c5441853fe50e7afc1.m3u8
 #EXTINF:-1 channel-id="61099df8cee03b00074b2ecf" tvg-id="61099df8cee03b00074b2ecf" tvg-chno="486" tvg-name="O Encantador de Cães" tvg-logo="https://images.pluto.tv/channels/61099df8cee03b00074b2ecf/colorLogoPNG.png" group-title="Natureza",O Encantador de Cães

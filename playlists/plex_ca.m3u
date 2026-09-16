@@ -5,6 +5,8 @@ https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-63eecb32ac23d1ee072087cb.m3u8
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-66f6b947515e742745f5ca34.m3u8
 #EXTINF:-1 channel-id="647f8d22a2fc3fadb4721685-5fd115bab7ef8d002dcf181d" tvg-id="647f8d22a2fc3fadb4721685-5fd115bab7ef8d002dcf181d" tvg-chno="" tvg-name="24 Hour Free Movies" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/24hrfreemovies_logo_dark.png" group-title="Movies",24 Hour Free Movies
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-5fd115bab7ef8d002dcf181d.m3u8
+#EXTINF:-1 channel-id="647f8d22a2fc3fadb4721685-668561babc1490a2f408f30d" tvg-id="647f8d22a2fc3fadb4721685-668561babc1490a2f408f30d" tvg-chno="" tvg-name="48 Hours" tvg-logo="https://provider-static.plex.tv/3/epg/channels/logos/gracenote/3448598d6e7d76222339ebab0fe195fb.png" group-title="Uncategorized",48 Hours
+https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-668561babc1490a2f408f30d.m3u8
 #EXTINF:-1 channel-id="647f8d22a2fc3fadb4721685-63894c1965b848bf2c8a7800" tvg-id="647f8d22a2fc3fadb4721685-63894c1965b848bf2c8a7800" tvg-chno="" tvg-name="5-Minute Crafts" tvg-logo="https://provider-static.plex.tv/epg/cms/production/52b33d5e-f48e-472d-896c-94759eccc1e4/5-Minute_Crafts_1500x1000_White.png" group-title="Food & Home",5-Minute Crafts
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-63894c1965b848bf2c8a7800.m3u8
 #EXTINF:-1 channel-id="647f8d22a2fc3fadb4721685-63504925a97bd70eaef54f01" tvg-id="647f8d22a2fc3fadb4721685-63504925a97bd70eaef54f01" tvg-chno="" tvg-name="ACL Cornhole TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d1076185-58d6-411b-ba73-1126837074dd/Plex_cornhole__1500x1000_white_-_Brendan_Canning_white_rdx.png" group-title="Sports",ACL Cornhole TV
@@ -117,12 +119,8 @@ https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-6164a963766ab4f9f57e81b1.m3u8
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-65b28dd28f05102bce4a7910.m3u8
 #EXTINF:-1 channel-id="647f8d22a2fc3fadb4721685-6403c7a95baf3d46d1103770" tvg-id="647f8d22a2fc3fadb4721685-6403c7a95baf3d46d1103770" tvg-chno="" tvg-name="CBC News" tvg-logo="https://provider-static.plex.tv/e/epg/channels/logos/gracenote/edb4a846dfbdd0fd06dc3c64ef89da22.png" group-title="Uncategorized",CBC News
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-6403c7a95baf3d46d1103770.m3u8
-#EXTINF:-1 channel-id="647f8d22a2fc3fadb4721685-69a52212c054ac87f216edff" tvg-id="647f8d22a2fc3fadb4721685-69a52212c054ac87f216edff" tvg-chno="" tvg-name="CBC News Ottawa" tvg-logo="https://provider-static.plex.tv/epg/cms/production/54571e45-8e49-44e5-84c0-8b2c79d95805/CBCNews-LOCAL-Ottawa_Plex_LOGO-COL-ON-DARK_wht_textRDX.png" group-title="Uncategorized",CBC News Ottawa
-https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-69a52212c054ac87f216edff.m3u8
-#EXTINF:-1 channel-id="647f8d22a2fc3fadb4721685-69a51ec7c054ac87f216edfb" tvg-id="647f8d22a2fc3fadb4721685-69a51ec7c054ac87f216edfb" tvg-chno="" tvg-name="CBC News Toronto" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ab43572e-2168-4144-9d07-ec540e297fe0/CBCNews-LOCAL-Toronto_Plex_LOGO-COL-ON-DARK_WHT_TXT_RDX.png" group-title="Uncategorized",CBC News Toronto
-https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-69a51ec7c054ac87f216edfb.m3u8
-#EXTINF:-1 channel-id="647f8d22a2fc3fadb4721685-69b9d2ce370077bcd1525970" tvg-id="647f8d22a2fc3fadb4721685-69b9d2ce370077bcd1525970" tvg-chno="" tvg-name="CBC News Windsor" tvg-logo="https://provider-static.plex.tv/epg/cms/production/8b063913-3b99-42a3-8195-703473567361/CBCNews-LOCAL-Windsor_Plex_LOGO-COL-ON-DARK_RDX.png" group-title="Uncategorized",CBC News Windsor
-https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-69b9d2ce370077bcd1525970.m3u8
+#EXTINF:-1 channel-id="647f8d22a2fc3fadb4721685-69a51ffb7c245b3390e8a4d8" tvg-id="647f8d22a2fc3fadb4721685-69a51ffb7c245b3390e8a4d8" tvg-chno="" tvg-name="CBC News Quebec" tvg-logo="https://provider-static.plex.tv/epg/cms/production/e089a0c5-3a4f-485e-b142-739e9c52ce9a/CBCNews-LOCAL-Quebec_Plex_LOGO-COL-ON-DARK_WHT_TEXT_RDX.png" group-title="Uncategorized",CBC News Quebec
+https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-69a51ffb7c245b3390e8a4d8.m3u8
 #EXTINF:-1 channel-id="647f8d22a2fc3fadb4721685-65e179f8d581830d25124e1d" tvg-id="647f8d22a2fc3fadb4721685-65e179f8d581830d25124e1d" tvg-chno="" tvg-name="CBS News Canada" tvg-logo="https://provider-static.plex.tv/epg/cms/production/cc6a6428-8c18-4f72-9809-1084e10e7359/CBS_WHT3017a837a5b62a0e9cdc8ab8fdd8f134RDX.png" group-title="Uncategorized",CBS News Canada
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-65e179f8d581830d25124e1d.m3u8
 #EXTINF:-1 channel-id="647f8d22a2fc3fadb4721685-64f115ad2173e54397ce0d40" tvg-id="647f8d22a2fc3fadb4721685-64f115ad2173e54397ce0d40" tvg-chno="" tvg-name="Cheaters" tvg-logo="https://provider-static.plex.tv/epg/cms/production/705cd2aa-27f6-4fd0-ab27-acbbddc1e3bb/FilmRise_Cheaters_Logo_Colorrdx.png" group-title="Reality",Cheaters
@@ -197,7 +195,7 @@ https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-6a56bff72ad9d298044c58f8.m3u8
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-69b16e4187340e48b7b7224d.m3u8
 #EXTINF:-1 channel-id="647f8d22a2fc3fadb4721685-6674b68af04cf4bb9233c916" tvg-id="647f8d22a2fc3fadb4721685-6674b68af04cf4bb9233c916" tvg-chno="" tvg-name="Death Valley Days" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f2194eb4-c78d-4502-a3ab-616eb2624c7d/FilmRise_DeathValleyDays_White_LogoRDX.png" group-title="Classic TV",Death Valley Days
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-6674b68af04cf4bb9233c916.m3u8
-#EXTINF:-1 channel-id="647f8d22a2fc3fadb4721685-636d5aa3dc2c550b145ed422" tvg-id="647f8d22a2fc3fadb4721685-636d5aa3dc2c550b145ed422" tvg-chno="" tvg-name="Degrassi" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a426c4a0-14ce-4a28-9203-af696a07663e/Degrassi_TNG_White_Strokerdx.png" group-title="Daytime TV",Degrassi
+#EXTINF:-1 channel-id="647f8d22a2fc3fadb4721685-636d5aa3dc2c550b145ed422" tvg-id="647f8d22a2fc3fadb4721685-636d5aa3dc2c550b145ed422" tvg-chno="" tvg-name="Degrassi" tvg-logo="https://provider-static.plex.tv/epg/cms/production/cada7234-31ab-4510-929d-e5fa3428331a/Degrassi_TNG_Logordx.png" group-title="Daytime TV",Degrassi
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-636d5aa3dc2c550b145ed422.m3u8
 #EXTINF:-1 channel-id="647f8d22a2fc3fadb4721685-6449369eb3ff17382cae5801" tvg-id="647f8d22a2fc3fadb4721685-6449369eb3ff17382cae5801" tvg-chno="" tvg-name="Dick Van Dyke" tvg-logo="https://provider-static.plex.tv/epg/cms/production/03fe73df-6585-49b7-bdd5-5ea605c4086f/FilmRise_DickVanDykeShow_Logo_Color.png" group-title="Classic TV",Dick Van Dyke
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-6449369eb3ff17382cae5801.m3u8
@@ -687,8 +685,6 @@ https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-61f04d2bb01a6e8df3f72902.m3u8
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-6a109508cd23e9639dc7e94a.m3u8
 #EXTINF:-1 channel-id="647f8d22a2fc3fadb4721685-5fc705e47c6557002ee1e769" tvg-id="647f8d22a2fc3fadb4721685-5fc705e47c6557002ee1e769" tvg-chno="" tvg-name="Tarima TV" tvg-logo="https://provider-static.plex.tv/d/epg/channels/logos/gracenote/d62015bd6ac8210dd3c09b87410367fd.png" group-title="Uncategorized",Tarima TV
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-5fc705e47c6557002ee1e769.m3u8
-#EXTINF:-1 channel-id="647f8d22a2fc3fadb4721685-69a202f60f8d297b3f6ac0f4" tvg-id="647f8d22a2fc3fadb4721685-69a202f60f8d297b3f6ac0f4" tvg-chno="" tvg-name="Taste" tvg-logo="https://provider-static.plex.tv/epg/cms/production/8ce74dbc-9546-4203-b2e9-06129ee547ae/Taste_Logo_Colour_1500X1000.png" group-title="Uncategorized",Taste
-https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-69a202f60f8d297b3f6ac0f4.m3u8
 #EXTINF:-1 channel-id="647f8d22a2fc3fadb4721685-66311d1a707bae70101ec757" tvg-id="647f8d22a2fc3fadb4721685-66311d1a707bae70101ec757" tvg-chno="" tvg-name="Tastemade" tvg-logo="https://provider-static.plex.tv/epg/cms/production/76c60f0e-ded8-4260-91c9-fab50a3347b9/LogosPLEX_FLAGSHIP_1500X1000_ForDarkBackground.png" group-title="Food & Home",Tastemade
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-66311d1a707bae70101ec757.m3u8
 #EXTINF:-1 channel-id="647f8d22a2fc3fadb4721685-6874409e46d1d8d8348e6b7e" tvg-id="647f8d22a2fc3fadb4721685-6874409e46d1d8d8348e6b7e" tvg-chno="" tvg-name="Teen Wolf by MGM" tvg-logo="https://provider-static.plex.tv/epg/cms/production/0f4395c4-94b6-48e0-8c24-2a61850211d2/TeenWolf_logo_Attribution_-_Carl_HoffelderRdx.png" group-title="Uncategorized",Teen Wolf by MGM
@@ -697,6 +693,8 @@ https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-6874409e46d1d8d8348e6b7e.m3u8
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-6478acb5c83f56da796f166f.m3u8
 #EXTINF:-1 channel-id="647f8d22a2fc3fadb4721685-6615522e50e81fa51eb0df61" tvg-id="647f8d22a2fc3fadb4721685-6615522e50e81fa51eb0df61" tvg-chno="" tvg-name="Teletubbies" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f50e841a-8e39-441c-a7de-aa5925e6171a/teled39375085042573d5d6d78b53aca27b8.png" group-title="Kids & Family",Teletubbies
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-6615522e50e81fa51eb0df61.m3u8
+#EXTINF:-1 channel-id="647f8d22a2fc3fadb4721685-6a90b2b5c0870218305e909b" tvg-id="647f8d22a2fc3fadb4721685-6a90b2b5c0870218305e909b" tvg-chno="" tvg-name="Tennis TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b0aa99bd-2d1a-4823-a864-7b0fa0d60613/tennis_white_logo.png" group-title="Uncategorized",Tennis TV
+https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-6a90b2b5c0870218305e909b.m3u8
 #EXTINF:-1 channel-id="647f8d22a2fc3fadb4721685-6761f91555e174e95ccc4e4c" tvg-id="647f8d22a2fc3fadb4721685-6761f91555e174e95ccc4e4c" tvg-chno="" tvg-name="Tennis+" tvg-logo="https://provider-static.plex.tv/epg/cms/production/704e7af1-90a0-4ad4-94de-af2559c19fa6/1_Tennis_Plus_Logo__Dark_Mode__1500x1000px.png" group-title="Uncategorized",Tennis+
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-6761f91555e174e95ccc4e4c.m3u8
 #EXTINF:-1 channel-id="647f8d22a2fc3fadb4721685-5f123330eca6a20040b328e8" tvg-id="647f8d22a2fc3fadb4721685-5f123330eca6a20040b328e8" tvg-chno="" tvg-name="TG Junior" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/tg-junior-non-us.png" group-title="Kids & Family",TG Junior

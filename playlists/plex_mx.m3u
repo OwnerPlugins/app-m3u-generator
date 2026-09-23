@@ -113,7 +113,7 @@ https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-6674b68af04cf4bb9233c916.m3u8
 https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-69a516217c245b3390e8a4d2.m3u8
 #EXTINF:-1 channel-id="608049aefa2b8ae93c2c3a63-6449369eb3ff17382cae5801" tvg-id="608049aefa2b8ae93c2c3a63-6449369eb3ff17382cae5801" tvg-chno="" tvg-name="Dick Van Dyke" tvg-logo="https://provider-static.plex.tv/epg/cms/production/03fe73df-6585-49b7-bdd5-5ea605c4086f/FilmRise_DickVanDykeShow_Logo_Color.png" group-title="Classic TV",Dick Van Dyke
 https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-6449369eb3ff17382cae5801.m3u8
-#EXTINF:-1 channel-id="608049aefa2b8ae93c2c3a63-614e286b2bac097ffd6fd6ab" tvg-id="608049aefa2b8ae93c2c3a63-614e286b2bac097ffd6fd6ab" tvg-chno="" tvg-name="Documentary+" tvg-logo="https://provider-static.plex.tv/epg/cms/production/24df67bc-967c-4662-a975-6f54c9c0657a/documentaryplus_logo_dark_1_WHT.png" group-title="Movies",Documentary+
+#EXTINF:-1 channel-id="608049aefa2b8ae93c2c3a63-614e286b2bac097ffd6fd6ab" tvg-id="608049aefa2b8ae93c2c3a63-614e286b2bac097ffd6fd6ab" tvg-chno="" tvg-name="Documentary+" tvg-logo="https://provider-static.plex.tv/epg/cms/production/dfb96456-2197-4b96-8cd4-3c360725528f/documentaryplus_logo_dark_1_WHT.png" group-title="Movies",Documentary+
 https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-614e286b2bac097ffd6fd6ab.m3u8
 #EXTINF:-1 channel-id="608049aefa2b8ae93c2c3a63-652a8b001b5c74bc83cf727c" tvg-id="608049aefa2b8ae93c2c3a63-652a8b001b5c74bc83cf727c" tvg-chno="" tvg-name="Dog Whisperer" tvg-logo="https://provider-static.plex.tv/7/epg/channels/logos/gracenote/7c58aad36639018b2b88c6ef55abf98a.png" group-title="Reality",Dog Whisperer
 https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-652a8b001b5c74bc83cf727c.m3u8
@@ -415,8 +415,6 @@ https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-62ba4aaff663580a7238f327.m3u8
 https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-6623c03b28a167c6e5b3079a.m3u8
 #EXTINF:-1 channel-id="608049aefa2b8ae93c2c3a63-6349ed0eb1adc4cfa571fd37" tvg-id="608049aefa2b8ae93c2c3a63-6349ed0eb1adc4cfa571fd37" tvg-chno="" tvg-name="SPEEDVISION" tvg-logo="https://provider-static.plex.tv/epg/cms/production/9653867c-6eb1-4c68-a494-4d4897c22b96/SV_4C_LOGO_LIGHT_1500x1000.png" group-title="Sports",SPEEDVISION
 https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-6349ed0eb1adc4cfa571fd37.m3u8
-#EXTINF:-1 channel-id="608049aefa2b8ae93c2c3a63-6216ae22c3bbca2de8704f65" tvg-id="608049aefa2b8ae93c2c3a63-6216ae22c3bbca2de8704f65" tvg-chno="" tvg-name="Sports Illustrated TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/61e78adf-40b3-4a6f-9d75-6c9db47248de/SITV_LOGO_PRIMARY_1500X1000.png" group-title="Uncategorized",Sports Illustrated TV
-https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-6216ae22c3bbca2de8704f65.m3u8
 #EXTINF:-1 channel-id="608049aefa2b8ae93c2c3a63-5ef11485d33ab9004048a1ca" tvg-id="608049aefa2b8ae93c2c3a63-5ef11485d33ab9004048a1ca" tvg-chno="" tvg-name="SportsGrid" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ed88a8cc-a1f4-445a-a2bc-9fbb4c7104de/SG-LIVE-WHITE-ON-ALPHA-1500x1000.png" group-title="Sports",SportsGrid
 https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-5ef11485d33ab9004048a1ca.m3u8
 #EXTINF:-1 channel-id="608049aefa2b8ae93c2c3a63-664292a80e0ec7b4ce5eb28c" tvg-id="608049aefa2b8ae93c2c3a63-664292a80e0ec7b4ce5eb28c" tvg-chno="" tvg-name="Startalk TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/073a7f1a-45ff-44a7-8b6b-4721a0eb01f9/StarTalk_Tv_Logo_Resize_PLEX_1500x1000_LOGO_DarkBG_Color_-_RDX.png" group-title="History & Science",Startalk TV

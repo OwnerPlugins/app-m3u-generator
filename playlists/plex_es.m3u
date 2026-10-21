@@ -265,10 +265,10 @@ https://jmp2.uk/plex-643054b1fc3be59477853717-666e2178d91d13cb4c8cbb75.m3u8
 https://jmp2.uk/plex-643054b1fc3be59477853717-682d0bc9363625fa508aef43.m3u8
 #EXTINF:-1 channel-id="643054b1fc3be59477853717-68b9f5a3d60e5dd29263c7ac" tvg-id="643054b1fc3be59477853717-68b9f5a3d60e5dd29263c7ac" tvg-chno="" tvg-name="NEW KFOOD" tvg-logo="https://provider-static.plex.tv/epg/cms/production/6aedfb80-69ab-4b5d-a34b-8e720a753673/NEW_KFOOD_Color_Logo-Dark_Background.png" group-title="Uncategorized",NEW KFOOD
 https://jmp2.uk/plex-643054b1fc3be59477853717-68b9f5a3d60e5dd29263c7ac.m3u8
+#EXTINF:-1 channel-id="643054b1fc3be59477853717-6abd4743e1b65dffbc995e44" tvg-id="643054b1fc3be59477853717-6abd4743e1b65dffbc995e44" tvg-chno="" tvg-name="NEWSMAX" tvg-logo="https://provider-static.plex.tv/epg/cms/production/90b1708c-fab8-4016-874a-33afa40fd951/NSMX_dark_base.png" group-title="Uncategorized",NEWSMAX
+https://jmp2.uk/plex-643054b1fc3be59477853717-6abd4743e1b65dffbc995e44.m3u8
 #EXTINF:-1 channel-id="643054b1fc3be59477853717-688b7f47c8caf40b4a62239f" tvg-id="643054b1fc3be59477853717-688b7f47c8caf40b4a62239f" tvg-chno="" tvg-name="Newsmax en Español" tvg-logo="https://provider-static.plex.tv/epg/cms/production/25db4f88-c689-4bf8-811b-603fb762d4fb/003_WHITE_NEWSMAX_EN_ESPANOL.png" group-title="Uncategorized",Newsmax en Español
 https://jmp2.uk/plex-643054b1fc3be59477853717-688b7f47c8caf40b4a62239f.m3u8
-#EXTINF:-1 channel-id="643054b1fc3be59477853717-5fb81660b7ad2d002dcb7335" tvg-id="643054b1fc3be59477853717-5fb81660b7ad2d002dcb7335" tvg-chno="" tvg-name="Newsmax2" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f3f74374-7cf6-4fdc-8056-7ef9e8eb989b/N2_logo_color.png" group-title="News",Newsmax2
-https://jmp2.uk/plex-643054b1fc3be59477853717-5fb81660b7ad2d002dcb7335.m3u8
 #EXTINF:-1 channel-id="643054b1fc3be59477853717-66bfb2e6144c201b8b61c10f" tvg-id="643054b1fc3be59477853717-66bfb2e6144c201b8b61c10f" tvg-chno="" tvg-name="NewsWorld" tvg-logo="https://provider-static.plex.tv/epg/cms/production/2e3bf0d9-3ca6-4f65-b1d4-f180ef725d96/NewsWorld_logo_dark_-_Angela_Chan.png" group-title="News",NewsWorld
 https://jmp2.uk/plex-643054b1fc3be59477853717-66bfb2e6144c201b8b61c10f.m3u8
 #EXTINF:-1 channel-id="643054b1fc3be59477853717-69f4f6c2647c1d14cc38677b" tvg-id="643054b1fc3be59477853717-69f4f6c2647c1d14cc38677b" tvg-chno="" tvg-name="NFL Channel" tvg-logo="https://provider-static.plex.tv/epg/cms/production/585a58ca-c568-4bb8-bfc7-3000ac8d5fc5/NFL_WHITE.png" group-title="Sports",NFL Channel
@@ -385,7 +385,7 @@ https://jmp2.uk/plex-643054b1fc3be59477853717-6922338150fe592fd6d5b7e8.m3u8
 https://jmp2.uk/plex-643054b1fc3be59477853717-692235265cbe620c1f9b6bc7.m3u8
 #EXTINF:-1 channel-id="643054b1fc3be59477853717-692234015028288613484a8a" tvg-id="643054b1fc3be59477853717-692234015028288613484a8a" tvg-chno="" tvg-name="Sony One | Éxitos" tvg-logo="https://provider-static.plex.tv/epg/cms/production/7a912ab4-bf9b-4918-9eff-05a351ff467d/ES_FAST_Plex_Faves_logo_dark.png" group-title="Uncategorized",Sony One | Éxitos
 https://jmp2.uk/plex-643054b1fc3be59477853717-692234015028288613484a8a.m3u8
-#EXTINF:-1 channel-id="643054b1fc3be59477853717-6349ed0eb1adc4cfa571fd37" tvg-id="643054b1fc3be59477853717-6349ed0eb1adc4cfa571fd37" tvg-chno="" tvg-name="SPEEDVISION" tvg-logo="https://provider-static.plex.tv/epg/cms/production/9653867c-6eb1-4c68-a494-4d4897c22b96/SV_4C_LOGO_LIGHT_1500x1000.png" group-title="Sports",SPEEDVISION
+#EXTINF:-1 channel-id="643054b1fc3be59477853717-6349ed0eb1adc4cfa571fd37" tvg-id="643054b1fc3be59477853717-6349ed0eb1adc4cfa571fd37" tvg-chno="" tvg-name="SPEEDVISION" tvg-logo="https://provider-static.plex.tv/epg/cms/production/eaf0f82d-10b5-4ad5-b673-caeca5180eab/SV_4C_LOGO_LIGHT_1500x1000.png" group-title="Sports",SPEEDVISION
 https://jmp2.uk/plex-643054b1fc3be59477853717-6349ed0eb1adc4cfa571fd37.m3u8
 #EXTINF:-1 channel-id="643054b1fc3be59477853717-5ef11485d33ab9004048a1ca" tvg-id="643054b1fc3be59477853717-5ef11485d33ab9004048a1ca" tvg-chno="" tvg-name="SportsGrid" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ed88a8cc-a1f4-445a-a2bc-9fbb4c7104de/SG-LIVE-WHITE-ON-ALPHA-1500x1000.png" group-title="Sports",SportsGrid
 https://jmp2.uk/plex-643054b1fc3be59477853717-5ef11485d33ab9004048a1ca.m3u8
@@ -489,6 +489,8 @@ https://jmp2.uk/plex-643054b1fc3be59477853717-66ccac69fdf9cd3a568ef135.m3u8
 https://jmp2.uk/plex-643054b1fc3be59477853717-67f45ef989089d917e1b1634.m3u8
 #EXTINF:-1 channel-id="643054b1fc3be59477853717-60df3e18541143002f3b8607" tvg-id="643054b1fc3be59477853717-60df3e18541143002f3b8607" tvg-chno="" tvg-name="USA TODAY" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ae42c76a-809f-465b-aed8-cfdc8e33a04b/usatoday_logo_light.png" group-title="News",USA TODAY
 https://jmp2.uk/plex-643054b1fc3be59477853717-60df3e18541143002f3b8607.m3u8
+#EXTINF:-1 channel-id="643054b1fc3be59477853717-6aaa1f33083227098739435d" tvg-id="643054b1fc3be59477853717-6aaa1f33083227098739435d" tvg-chno="" tvg-name="VEEPS Concert Pass" tvg-logo="https://provider-static.plex.tv/epg/cms/production/6fba9fc8-1826-423c-9924-655ebbfd3066/VEEPS_Concert_Pass_1920x1080_ColorWHT_REDRDX.png" group-title="Uncategorized",VEEPS Concert Pass
+https://jmp2.uk/plex-643054b1fc3be59477853717-6aaa1f33083227098739435d.m3u8
 #EXTINF:-1 channel-id="643054b1fc3be59477853717-68251044ae4546e02a6ba4f7" tvg-id="643054b1fc3be59477853717-68251044ae4546e02a6ba4f7" tvg-chno="" tvg-name="Viajes & Sabores" tvg-logo="https://provider-static.plex.tv/epg/cms/production/03e84b82-8da3-432d-9dfe-fb32927f106e/Logo_Viajes_Sabores_1500x1000_DarkBackground_-_Belen_Bruno.png" group-title="Uncategorized",Viajes & Sabores
 https://jmp2.uk/plex-643054b1fc3be59477853717-68251044ae4546e02a6ba4f7.m3u8
 #EXTINF:-1 channel-id="643054b1fc3be59477853717-65a1d3996475bf522f9256e3" tvg-id="643054b1fc3be59477853717-65a1d3996475bf522f9256e3" tvg-chno="" tvg-name="VR+" tvg-logo="https://provider-static.plex.tv/epg/cms/production/cd4c6347-92c4-4381-9d09-b8d38d9729de/1500x1000_-_white_logo_VR__Juan_M_Velasquez.png" group-title="Music, En Español",VR+
